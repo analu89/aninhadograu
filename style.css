@@ -4,7 +4,7 @@
 }
 
 .cabecalho {
-    background-color: #ce173f;
+    background-color: #194461;
     color: rgb(196, 196, 196);
     display: flex;
     justify-content: space-around;
@@ -27,8 +27,8 @@
 }
 
 .escola{
-    background-image: linear-gradient(#ce173f,#e2617d);
-    color:#5c0a1c;
+    background-image: linear-gradient(#194461,#3681b3);
+    color:#ccc0c2;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -44,7 +44,7 @@
     
 }.estudante{
     padding: 32px 0;
-    background-color: #e2617d;
+    background-color: #3681b3;
     color: rgb(196, 196, 196);
     font-size: 15px;
 }
@@ -70,7 +70,7 @@
     padding: 16px 0;
 }
 .rodape{
-    background-color: #e60f3e;
+    background-color: #d1c3c6;
     text-align: center;
 }
 .estudante-titulo{
@@ -88,7 +88,7 @@
     padding: 32px 0;
     background-color: #e2617d;
     color: rgb(196, 196, 196);
-    background-image: linear-gradient(#e2617d,#e60f3e);
+    background-image: linear-gradient(#3681b3,#194461);
     font-size: 15px;
 }
 .estudante-titulo{
